@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Products",
+    "subtitle": "Cultural and Creative Products",
+    "image": "assets/images/products.jpg"
+  },
+  {
+    "title": "Collections",
+    "subtitle": "More than 170,000 pieces(sets)",
+    "image": "assets/images/collections.jpg"
+  },
+  {
+    "title": "Research",
+    "subtitle": "Articles on Chinese Ancient Civilization",
+    "image": "assets/images/research.jpeg"
+  },
+  {
+    "title": "Events",
+    "subtitle": "Get the latest news and updates",
+    "image": "assets/images/events.jpeg"
+  },
+  {
+    "title": "Educational",
+    "subtitle": "Rich online curriculum resources",
+    "image": "assets/images/educational.png"
+  }
+]

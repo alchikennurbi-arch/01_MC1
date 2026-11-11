@@ -1,0 +1,27 @@
+[
+  {
+    "image": "icon1.png",
+    "name": "Northern Wei Buddha Face",
+    "description": "This is a fragmentary clay sculpture of a Buddha's face from the Northern Wei Dynasty. The piece is missing the eyes, forehead, and parts of the cheeks, yet the remaining features are remarkably serene."
+  },
+  {
+    "image": "icon2.png",
+    "name": "Eastern Han Gilt Feather Man",
+    "description": "This gilded bronze figurine depicts a feathered immortal, a common motif in Han Dynasty mythology. The figure has pointed ears, wings, and holds a decorated rectangular vessel."
+  },
+  {
+    "image": "icon3.png",
+    "name": "Roman Glass Bottle",
+    "description": "This is a blown glass bottle from the Eastern Han Dynasty, imported from the Roman Empire. It features swirling white and colored threads against a dark background."
+  },
+  {
+    "image": "icon4.png",
+    "name": "Han Dynasty Dancer Figurine",
+    "description": "This is a painted pottery figurine of a female dancer from the Han Dynasty, likely depicting a performer of the 'Seven-Plate Dance'. She strikes a dynamic pose with flowing sleeves."
+  },
+  {
+    "image": "icon5.png",
+    "name": "Warring States Gold-Silver Ding",
+    "description": "The vessel's surface is adorned with symmetrical floral and geometric patterns. The lost-wax casting and inlay techniques demonstrate the peak of bronze craftsmanship in ancient China."
+  }
+]
